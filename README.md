@@ -1,6 +1,7 @@
 # Harini_Datla
-AI experiments
+
 Hi there, I'm Harini Datla👋
+This is a repository showcasing my AI and ML experiments.
 
 I'm a Sr. Data Scientist, AI Researcher, Teaching Assistant.
 🔭 I am constanly working towards leveraging AI in real world that can have a social impact.
